@@ -18,7 +18,7 @@ class Tietokone {
 	
 	// toiminnallisuudet
 	public void kaynnisty() {
-		System.out.println("Tietokone on käynnistetty");
+		System.out.println("Tietokone on nyt käynnistetty");
 	}
 	
 	public void sammu() {
