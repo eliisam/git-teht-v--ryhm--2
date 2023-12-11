@@ -44,7 +44,7 @@ class Tietokone {
 	 public void tulostaTiedot() {
 	        System.out.println("Tietokoneen tiedot:");
 	        System.out.println("Käynnissä: " + kaynnissa);
-	        System.out.println("Muisti: " + muisti + " gigatavua");
+	        System.out.println("Muistin määärä: " + muisti + " gigatavua");
 	       
 	 }
 
